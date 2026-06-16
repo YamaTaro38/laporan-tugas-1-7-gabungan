@@ -4,6 +4,11 @@
 
 <br>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Aplikasi-Berbasis-Platform-S1IF-11-04/Pertemuan-9-Mobile/refs/heads/main/Muhammad%20Rafiful%20Hana%20-%202311102227/source_code/output/logo%20telkom%20university.png" width="150"/>
+</p>
+<br>
+
+<p align="center">
   <strong>Muhammad Rafiful Hana</strong>
   <br>
   2311102227
@@ -256,7 +261,7 @@ Halaman form data mahasiswa ditampilkan di browser dengan struktur tabel. Form b
 
 #### Output 1 - Form Data Mahasiswa
 
-![Form Data Mahasiswa](images/Project%201.png)
+![Form Data Mahasiswa](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%201.png)
 
 Tampilan halaman form data mahasiswa di browser. Form berisi field NIM, Nama, Tanggal Lahir, Jenis Kelamin, Alamat, Tempat Tinggal, dan Hobi dengan tombol Submit dan Reset.
 
@@ -416,7 +421,7 @@ Halaman ditampilkan dengan layout 2 baris. Baris pertama berisi logo di kiri dan
 
 #### Output 1 - Layout Bootstrap
 
-![Layout Bootstrap](images/Project%202.png)
+![Layout Bootstrap](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%202.png)
 
 Tampilan layout halaman menggunakan Bootstrap Grid System dengan header (logo + banner), sidebar navigasi, konten utama, dan sidebar kanan.
 
@@ -529,25 +534,25 @@ Halaman ditampilkan dengan layout yang sama seperti Project 2, namun ditambahkan
 
 #### Output 1 - Tampilan Awal
 
-![Tampilan Awal JS](images/Project%203.png)
+![Tampilan Awal JS](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%203.png)
 
 Tampilan halaman JavaScript interaktif dengan tombol "Ubah Alignment" dan "Ubah Warna Sidebar".
 
 #### Output 2 - Hitung Jumlah Ganjil
 
-![Hitung Jumlah Ganjil](images/Project%203%20-%20Hitung%20Jumlah%20Ganjil.png)
+![Hitung Jumlah Ganjil](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%203%20-%20Hitung%20Jumlah%20Ganjil.png)
 
 Hasil perhitungan jumlah bilangan ganjil yang ditampilkan di console browser.
 
 #### Output 3 - Ubah Alignment
 
-![Ubah Alignment](images/Project%203%20-%20Ubah%20Alignment.png)
+![Ubah Alignment](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%203%20-%20Ubah%20Alignment.png)
 
 Perataan teks konten berubah setelah tombol "Ubah Alignment" diklik.
 
 #### Output 4 - Ubah Warna Sidebar
 
-![Ubah Warna Sidebar](images/Project%203%20-%20Ubah%20Warna%20Sidebar.png)
+![Ubah Warna Sidebar](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%203%20-%20Ubah%20Warna%20Sidebar.png)
 
 Warna sidebar berubah dari abu-abu menjadi kuning setelah tombol "Ubah Warna Sidebar" diklik.
 
@@ -757,19 +762,19 @@ Logout (logout.php)
 
 #### Output 1 - Halaman Register
 
-![Halaman Register](images/Project%204%20-%20Register.png)
+![Halaman Register](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%204%20-%20Register.png)
 
 Tampilan halaman registrasi user baru dengan form input username dan password, serta tombol "Send" untuk mengirim data.
 
 #### Output 2 - Halaman Login
 
-![Halaman Login](images/Project%204%20-%20Login.png)
+![Halaman Login](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%204%20-%20Login.png)
 
 Tampilan halaman login dengan form input username dan password, serta tombol "Login" dan link "Register" di bagian bawah.
 
 #### Output 3 - Login Berhasil
 
-![Login Berhasil](images/Project%204%20-%20Logged%20In.png)
+![Login Berhasil](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%204%20-%20Logged%20In.png)
 
 Tampilan halaman setelah login berhasil, menampilkan pesan "welcome" dengan nama user yang sudah terautentikasi.
 
@@ -939,13 +944,13 @@ Pesan baru muncul di div #data tanpa refresh!
 
 #### Output 1 - Tampilan Awal
 
-![AJAX Tampilan Awal](images/Project%205.png)
+![AJAX Tampilan Awal](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%205.png)
 
 Tampilan halaman AJAX Shoutbox dengan form input pesan dan tombol "Shout!" serta area response dari server.
 
 #### Output 2 - Pesan Terkirim
 
-![AJAX Pesan Terkirim](images/Project%205%20-%20Shout.png)
+![AJAX Pesan Terkirim](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%205%20-%20Shout.png)
 
 Response dari server ditampilkan langsung di area "Hasil Response dari Server" secara real-time tanpa reload halaman. Setiap pesan baru ditambahkan di bawah pesan sebelumnya.
 
@@ -1117,13 +1122,13 @@ HTML output dikirim ke browser
 
 #### Output 1 - Latihan 1 (Data Nama & Asal)
 
-![Latihan 1](images/Project%206%20-%20Latihan%201.png)
+![Latihan 1](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%206%20-%20Latihan%201.png)
 
 Tampilan halaman latihan 1 yang menampilkan data nama "Muhammad Rafiful Hana" dan asal "Kudus". Data dikirim dari `Lat1Controller::index()` ke view `v_latihan1.blade.php` melalui Blade template engine.
 
 #### Output 2 - Latihan 2 (Tabel Daftar Mahasiswa)
 
-![Latihan 2](images/Project%206%20-%20Latihan%202.png)
+![Latihan 2](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%206%20-%20Latihan%202.png)
 
 Tampilan halaman latihan 2 yang menampilkan tabel berisi 3 data mahasiswa dengan kolom No, Nama, dan Asal. Menggunakan Blade directive `@foreach` untuk looping array `$daf_mhs` dari controller.
 
@@ -1385,19 +1390,19 @@ class User extends Authenticatable
 
 #### Output 1 - Halaman Login Laravel
 
-![Login Laravel](images/Project%207%20-%20Login.png)
+![Login Laravel](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%207%20-%20Login.png)
 
 Tampilan halaman login menggunakan Laravel Auth dengan form email dan password. Terdapat link "Belum punya akun? Register" di bagian bawah form.
 
 #### Output 2 - Halaman Register Laravel
 
-![Register Laravel](images/Project%207%20-%20Register.png)
+![Register Laravel](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%207%20-%20Register.png)
 
 Tampilan halaman registrasi dengan 4 form field: Nama, Email, Password, dan Konfirmasi Password. Validasi rules diterapkan pada setiap field.
 
 #### Output 3 - Home Setelah Login
 
-![Home Laravel](images/Project%207%20-%20Logged%20In.png)
+![Home Laravel](https://raw.githubusercontent.com/YamaTaro38/laporan-tugas-1-7-gabungan/main/images/Project%207%20-%20Logged%20In.png)
 
 Halaman home yang menampilkan nama dan email user setelah berhasil login. Hanya dapat diakses oleh user yang sudah terautentikasi. Terdapat tombol Logout di bagian bawah.
 
